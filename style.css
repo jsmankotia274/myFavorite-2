@@ -11,12 +11,14 @@ img {
 
 }
 
-.line hover {
-    list-style: none;
-    font-family: cursive;
-    float: right;
-    top: 10px;
-    right: 30px;
-    cursor: pointer;
-    color: black;
+.links:hover {
+    background: white;
+    font-size: 25px;
+}
+
+.links {
+    display: inline;
+    padding-left: 25;
+    padding-right: 25;
+    font-size: 20px;
 }
